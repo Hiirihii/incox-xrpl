@@ -1,2 +1,2 @@
 # incox-xrpl
-Java API to interact with XRP Ledger.
+Java API and text interface to interact with XRP Ledger.
